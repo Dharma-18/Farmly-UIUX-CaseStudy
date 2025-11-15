@@ -1,8 +1,13 @@
 # 🌾 Farmly – Fresh Produce From Local Farms
 
 Farmly is an informative and conceptual project focused on showcasing how a fresh-produce delivery app can help users access local, affordable, and high-quality vegetables directly from nearby farms.  
+
 This repository contains documents, prompts, and design references used for building the UI/UX of the Farmly project.
+
+
 The portfolio link has been attached.
+
+
 ---
 
 ## 🚀 Overview
@@ -127,5 +132,6 @@ Check out this project on Behance:
 
 Thank you for exploring the Farmly project.  
 If you find this helpful, please ⭐ star the repository!
+
 
 
