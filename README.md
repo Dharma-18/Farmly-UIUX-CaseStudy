@@ -122,7 +122,6 @@ Check out this project on Behance:
 
 ## 📚 Credits
 
-- Content generated with ChatGPT  
 - UI/UX concept structured by the Farmly team  
 - Repo maintained for presentation and documentation purposes  
 
@@ -132,6 +131,7 @@ Check out this project on Behance:
 
 Thank you for exploring the Farmly project.  
 If you find this helpful, please ⭐ star the repository!
+
 
 
 
