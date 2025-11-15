@@ -1,149 +1,124 @@
-🌿 FARMLY – Fresh Vegetable Shopping App
-UI/UX Case Study · Mobile App Design · Figma Project
-<p align="center"> <img src="Logo/farmly-logo.png" width="200" alt="Farmly Logo"/> </p>
-📌 Overview
+# 🌾 Farmly – Fresh Produce From Local Farms
 
-Farmly is a mobile application designed to make buying fresh vegetables simpler, cleaner, and more trustworthy.
-This end-to-end case study covers the entire design flow—from user research to final UI screens—created as part of a UX/UI project.
+Farmly is an informative and conceptual project focused on showcasing how a fresh-produce delivery app can help users access local, affordable, and high-quality vegetables directly from nearby farms.  
+This repository contains documents, prompts, and design references used for building the UI/UX of the Farmly project.
 
-Farmly aims to solve real problems users face in daily vegetable shopping:
-🛒 Crowded markets
-⏳ No time for shopping
-🥦 Inconsistent quality
-💸 Changing prices
-🚚 Unreliable delivery on other apps
+---
 
-🧭 Design Goals
+## 🚀 Overview
 
-Provide fresh vegetables directly from local farmers
+Farmly aims to provide a seamless platform for users to order **fresh, seasonal, and locally sourced vegetables**.  
+The app concept highlights:
 
-Create a minimal, calming, trustworthy user interface
+- Simple and friendly interface  
+- Local farm partnerships  
+- Transparent pricing  
+- Freshness and quality assurance  
+- Region-based delivery (Jaipur)
 
-Offer a fast and smooth shopping journey
+---
 
-Improve transparency in pricing and quality
+## 🏷️ Tags
 
-Build a modern mobile product experience
+`#Farmly` `#UIUX` `#Agritech` `#FreshProduce` `#LocalFarms`  
+`#UserExperience` `#AppConcept` `#DesignProcess` `#FarmToHome`
 
-🧰 Tools Used
-Tool	Purpose
-Figma	Wireframes, UI, Prototype
-Adobe Illustrator	Logo, Icons
-Gamma / Canva	Presentation Slides
-Notion / Google Docs	Research & Notes
-AI Illustration Tools	User Interview Images
+---
 
-🧪 Design Process
+## 🛠️ Tools Used
 
-User Interviews
+- **Figma** – Wireframes & Prototypes  
+- **Lovable / AI Tools** – Illustrations & Visual Elements  
+- **VS Code** – Project Editing  
+- **GitHub** – Repository & Version Control  
 
-Persona Creation
+---
 
-Problem Definition
+## 📄 Project Description
 
-Competitive Analysis
+This project includes:
 
-Information Architecture
+- Farmly brand concept  
+- Design process notes  
+- Prompts for generating app visuals  
+- App flow explanation  
+- Wireframe and screen structure  
+- Clean documentation for UI/UX presentation
 
-Low-Fidelity Wireframes
+Screens included in the project:
 
-High-Fidelity UI Screens
+- Splash screen  
+- Login / Sign Up  
+- Home page  
+- Category listing  
+- Product details  
+- Cart screen  
+- Checkout  
+- Order success  
+- Profile page  
 
-Interactive Prototype
+All screens are carefully structured to reflect **clarity, usability, and simplicity**.
 
-Usability Testing
+---
 
-🧑‍🤝‍🧑 User Interviews (Summary)
-Interview 1 – Arjun (Gym Enthusiast)
+## 🧩 Design Process (High-Level)
 
-Likes fresh veggies
+1. **Problem Understanding** – Need for fresh, local produce access.  
+2. **User Goal Mapping** – Easy ordering, fast delivery, trustworthy source.  
+3. **Wireframing** – Sketching low-fidelity flow.  
+4. **Visual Design** – Colors, typography, components.  
+5. **Prototype** – Connecting screens for smooth navigation.  
+6. **Testing & Feedback** – Ensuring clarity and usability.
 
-Orders 2–3 times a week
+---
 
-Liked Farmly’s easy flow & freshness
+## 📌 App Flow Summary
 
-Wants organic options
+1. **User opens the app → Splash**  
+2. **Login or Sign Up**  
+3. **Home Screen with categories**  
+4. **View category → Select a product**  
+5. **Add to cart**  
+6. **Checkout**  
+7. **Order confirmation**  
+8. **Profile for updates & settings**
 
-Interview 2 – Naveen (Working Professional)
+---
 
-Uses grocery apps often
+## 👥 Team Members
 
-Finds Farmly clean & easy
+- Dharma Lingam
+- Sam Ganesh  
+- Nareindhar Pradsath  
+- Balamurugan  
+- Jayaprakash  
+- Raghava  Suriya  
 
-Saves time
+---
 
-Likes “quick reorder”
+## 🏢 Company Information (Conceptual)
 
-Interview 3 – Priya (Home Cook)
+**Name:** Farmly Pvt. Ltd.  
+**Sector:** Agritech / Local Produce Delivery  
+**Region:** Jaipur, India  
+**Focus:** Seasonal, fresh, and affordable vegetables sourced directly from local farms.
 
-Buys every 2 days
+---
 
-Issues with offline markets
+## 📝 General Prompt for Future Use
 
-Loved Farmly packaging
 
-Would recommend to others
+---
 
-🔍 Competitive Analysis
+## 📚 Credits
 
-We analysed popular grocery brands to understand gaps & improvements:
+- Content generated with ChatGPT  
+- UI/UX concept structured by the Farmly team  
+- Repo maintained for presentation and documentation purposes  
 
-Brand	Strengths	Weaknesses
-Blinkit	Fast delivery	Limited fresh focus
-Zepto	Quick UI	Category overload
-BigBasket	Huge variety	Slow delivery
-Local Vendors	Very fresh	No convenience
+---
 
-Farmly combines fast UI + fresh quality.
+## 🙏 Thank You
 
-🗂️ Information Architecture
-Home
- ├── Categories
- │    ├── Vegetables
- │    ├── Greens
- │    ├── Fruits
- ├── Product Page
- ├── Cart
- ├── Checkout
- ├── Order Success
- ├── Profile
-
- 📝 Key Screens
-
-✔ Home
-✔ Categories
-✔ Product Details
-✔ Cart
-✔ Checkout
-✔ Order Success
-✔ Login / Signup
-✔ Profile
-✔ Tracking
-
-(All images available in the /Screenshots folder.)
-
-🎨 Brand Identity
-Colors
-
-🌿 Leaf Green
-🧼 Clean White
-🥕 Fresh Orange
-🌱 Light Pastels
-
-Typography
-
-Clean Sans-serif
-
-Rounded, friendly, minimal
-
-👥 Team Members
-Sam Ganesh	
-Nareindhar Pradsath	
-Balamurugan	
-Dharmalingam	
-Jayaprkash	
-Raghva Suriya	 
-
-🙏 Thank You!
-
-If you like this work, feel free to ⭐ star the repository on GitHub.
+Thank you for exploring the Farmly project.  
+If you find this helpful, please ⭐ star the repository!
