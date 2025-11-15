@@ -100,12 +100,10 @@ All screens are carefully structured to reflect **clarity, usability, and simpli
 
 **Name:** Farmly Pvt. Ltd.  
 **Sector:** Agritech / Local Produce Delivery  
-**Region:** Jaipur, India  
+**Region:** Tamil Nadu, India  
 **Focus:** Seasonal, fresh, and affordable vegetables sourced directly from local farms.
 
 ---
-
-## 📝 General Prompt for Future Use
 
 
 ---
@@ -122,3 +120,4 @@ All screens are carefully structured to reflect **clarity, usability, and simpli
 
 Thank you for exploring the Farmly project.  
 If you find this helpful, please ⭐ star the repository!
+
